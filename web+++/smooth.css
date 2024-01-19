@@ -1,0 +1,21 @@
+body {
+    background-color: lavenderblush;
+}
+h1 {
+    text-align: center;
+}
+form {
+    background-color:lightslategrey;
+    padding: 20px;
+    margin: 20px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 30px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+input {
+    width: 50%;
+    margin-top: 10px;
+}
